@@ -1,0 +1,59 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.school_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.school_mainDiv img {
+    width: 100%;
+}
+
+.school_mainDiv hr {
+    width: 230px;
+}
+
+.school_mainDiv h5,
+.school_mainDiv p {
+    margin-left: 20px;
+}
+
+.campuslife {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.campuslife i {
+    float: right;
+}
+
+.campuslife span {
+    color: #FF7700;
+}
+
+.achievements_li {
+    margin-top: 13px;
+}
+
+.achievements_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
